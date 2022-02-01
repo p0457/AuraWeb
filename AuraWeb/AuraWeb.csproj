@@ -20,7 +20,7 @@
     <PackageReference Include="NLog.Web.AspNetCore" Version="4.6.0" />
     <PackageReference Include="PointyHatGames.EVEStandard" Version="2.0.9" />
     <PackageReference Include="RestSharp" Version="106.3.1" />
-    <PackageReference Include="SharpZipLib" Version="1.0.0" />
+    <PackageReference Include="SharpZipLib" Version="1.3.3" />
     <PackageReference Include="Slapper.AutoMapper" Version="2.0.0.9-beta" />
     <PackageReference Include="System.Data.SQLite.Core" Version="1.0.106" />
   </ItemGroup>
